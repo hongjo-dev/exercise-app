@@ -20,8 +20,6 @@
 
 ## **📋 주요 화면**
 
-## **📋 주요 화면**
-
 | 로그인 화면 | 메인 화면 | 운동 분석 화면 |
 | --- | --- | --- |
 | <img src="./images/login.jpg" alt="로그인 화면" width="200" height="400"> | <img src="./images/main_screen.jpg" alt="메인 화면" width="200" height="400"> | <img src="./images/analysis.jpg" alt="운동 분석 화면" width="200" height="400"> |
