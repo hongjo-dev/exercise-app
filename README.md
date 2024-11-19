@@ -54,15 +54,10 @@
 ---
 
 ### **5. 건강 대시보드 및 운동 기록**
+건강 데이터를 한눈에 확인하고, 운동 기록을 캘린더 형식으로 조회할 수 있습니다.  
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <div align="center">
-    <strong>건강 대시보드</strong><br>
-    <img src="./images/bmi.jpg" alt="건강 대시보드" width="300">
-  </div>
-  <div align="center">
-    <strong>운동 기록</strong><br>
-    <img src="./images/record.jpg" alt="운동 기록" width="300">
-  </div>
+  <img src="./images/bmi.jpg" alt="건강 대시보드" width="300">
+  <img src="./images/record.jpg" alt="운동 기록" width="300">
 </div>
 
 ---
@@ -74,21 +69,11 @@
 </div>
 
 #### **6.1 주요 카테고리**
-추천되는 주요 제품 카테고리:
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div align="center">
-    <strong>의류</strong><br>
-    <img src="./images/clothes.jpg" alt="의류" width="200">
-  </div>
-  <div align="center">
-    <strong>닭가슴살</strong><br>
-    <img src="./images/chicken.jpg" alt="닭가슴살" width="200">
-  </div>
-  <div align="center">
-    <strong>프로틴</strong><br>
-    <img src="./images/protein.jpg" alt="프로틴" width="200">
-  </div>
+추천되는 주요 제품 카테고리:  
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="./images/clothes.jpg" alt="의류" width="300">
+  <img src="./images/chicken.jpg" alt="닭가슴살" width="300">
+  <img src="./images/protein.jpg" alt="프로틴" width="300">
 </div>
 
 ---
