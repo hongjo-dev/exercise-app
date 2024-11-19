@@ -65,7 +65,7 @@
 ### **6. 제품 추천**
 제품 추천 화면에서 다양한 카테고리의 운동 관련 제품을 탐색할 수 있습니다.  
 <div align="center">
-  <img src="./images/product.jpg" alt="제품 추천 전체 화면" width="600" height="700">
+  <img src="./images/product.jpg" alt="제품 추천 전체 화면" width="400" height="600">
 </div>
 
 #### **6.1 주요 카테고리**
