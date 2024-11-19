@@ -1,0 +1,64 @@
+name: flutterapp
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.3.0  # Firebase Core 최신 버전
+  firebase_analytics: ^11.2.1 # Firebase Analytics 최신 버전 (선택 사항)
+  cloud_firestore: ^5.2.1  # Firestore 최신 버전 (선택 사항)
+  firebase_storage: ^12.1.3  # Firebase Storage 최신 버전 (선택 사항)
+  firebase_auth: ^5.1.4   # Authentication 사용 시 추가
+  flutter_inappwebview: ^5.7.2+3
+  google_sign_in: ^6.2.1
+  fl_chart: ^0.68.0
+  intl: ^0.19.0
+  table_calendar: ^3.1.2
+  camera: ^0.11.0+2
+  url_launcher: ^6.3.0
+  tflite_flutter: ^0.10.4
+  collection: ^1.18.0
+  image: ^4.2.0
+#  tflite: ^1.1.2
+  image_picker: ^1.1.2
+  google_mlkit_commons: ^0.7.0
+  google_mlkit_pose_detection: ^0.11.0
+  just_audio: ^0.9.39
+  cupertino_icons: ^1.0.8
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^4.0.0
+
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/images/chicken/
+    - assets/images/다이어트 보조제/
+    - assets/images/의류/
+    - assets/images/프로틴/
+    - assets/images/화장품/
+    - assets/images/운동기구/
+    - assets/model/movenet.tflite
+    - assets/model/posenet_mv1_075_float_from_checkpoints.tflite
+    - assets/audio/
+    - assets/icon/
+
+  uses-material-design: true
+
+

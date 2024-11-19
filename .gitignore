@@ -1,0 +1,98 @@
+# 기본적으로 모든 파일과 폴더 무시
+/*
+
+# 포함할 폴더
+!/assets/
+!/lib/
+
+# 반드시 포함할 파일 (예: pubspec.yaml 등)
+!/pubspec.yaml
+!/README.md
+!/.gitignore
+
+# Flutter 관련
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# 빌드 결과물
+build/
+**/build/
+*.apk
+*.aab
+
+# Android 관련
+android/app/build/
+android/local.properties  # 로컬 환경 설정 파일
+android/app/*.keystore  # 서명 키스토어 파일
+**/android/.gradle/
+**/android/captures/
+**/android/key.properties
+
+# iOS 관련
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Pods/
+**/ios/Flutter/.last_build_id
+**/ios/.symlinks/
+**/ios/DerivedData/
+**/ios/xcuserdata/
+
+# 환경 변수 및 민감한 정보
+.env
+.env.*
+google-services.json
+GoogleService-Info.plist
+lib/config/*.env
+lib/config/env.dart
+secrets.json
+config.json
+
+# 로그 파일 및 임시 파일
+*.log
+*.tmp
+*.swp
+*.lock
+.DS_Store
+Thumbs.db
+
+# IntelliJ / Android Studio 관련
+.idea/
+*.iml
+.gradle/
+captures/
+
+# Xcode 관련
+*.xcuserstate
+*.xcworkspace
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+*.xcscmblueprint
+*.xccheckout
+
+# macOS 관련
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows 관련
+Thumbs.db
+desktop.ini
+
+# JetBrains IDE 관련
+*.ipr
+*.iws
+/out/
+
+# Eclipse 관련
+.classpath
+.project
+.settings/
