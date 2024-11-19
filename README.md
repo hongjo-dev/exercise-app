@@ -24,9 +24,9 @@
 | --- | --- | --- |
 | <img src="./images/login.jpg" alt="로그인 화면" width="200" height="400"> | <img src="./images/main_screen.jpg" alt="메인 화면" width="200" height="400"> | <img src="./images/analysis.jpg" alt="운동 분석 화면" width="200" height="400"> |
 
-| 운동 자세 가이드 | 건강 대시보드 | 운동 기록 |
-| --- | --- | --- |
-| <img src="./images/guide.jpg" alt="운동 자세 가이드" width="200" height="400"> | <img src="./images/bmi.jpg" alt="건강 대시보드" width="200" height="400"> | <img src="./images/record.jpg" alt="운동 기록" width="200" height="400"> |
+| 운동 자세 분석 | 운동 자세 가이드 | 건강 대시보드 | 운동 기록 |
+| --- | --- | --- | --- |
+| <img src="./images/exercise.jpg" alt="운동 자세 분석" width="200" height="400"> | <img src="./images/guide.jpg" alt="운동 자세 가이드" width="200" height="400"> | <img src="./images/bmi.jpg" alt="건강 대시보드" width="200" height="400"> | <img src="./images/record.jpg" alt="운동 기록" width="200" height="400"> |
 
 | 제품 추천 화면 | 의류 | 닭가슴살 | 프로틴 |
 | --- | --- | --- | --- |
