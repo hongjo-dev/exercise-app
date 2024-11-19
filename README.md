@@ -55,13 +55,13 @@
 
 ### **5. 건강 대시보드 및 운동 기록**
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <div>
+  <div align="center">
     <strong>건강 대시보드</strong><br>
-    <img src="./images/bmi.jpg" alt="건강 대시보드" width="200">
+    <img src="./images/bmi.jpg" alt="건강 대시보드" width="300">
   </div>
-  <div>
+  <div align="center">
     <strong>운동 기록</strong><br>
-    <img src="./images/record.jpg" alt="운동 기록" width="200">
+    <img src="./images/record.jpg" alt="운동 기록" width="300">
   </div>
 </div>
 
