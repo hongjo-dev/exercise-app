@@ -1,4 +1,4 @@
-# **SmartFit AI**
+# **🌟SmartFit AI**
 
 ### **운동 자세 교정 및 건강 관리 앱**
 
