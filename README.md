@@ -21,39 +21,49 @@
 ## **📋 주요 화면**
 
 ### **1. 로그인 화면**
-사용자가 전화번호, Google 계정 또는 익명 로그인을 통해 손쉽게 접속할 수 있습니다.
-![로그인 화면](./images/login.jpg)
+사용자가 전화번호, Google 계정 또는 익명 로그인을 통해 손쉽게 접속할 수 있습니다.  
+<div style="text-align: center;">
+  <img src="./images/login.jpg" alt="로그인 화면" width="300">
+</div>
 
 ---
 
 ### **2. 메인 화면**
-운동 분석, 운동 자세, 과거 이력, 제품 추천 기능을 한눈에 볼 수 있는 메인 화면입니다.
-![메인 화면](./images/main_screen.jpg)
+운동 분석, 운동 자세, 과거 이력, 제품 추천 기능을 한눈에 볼 수 있는 중심 화면입니다.  
+<div style="text-align: center;">
+  <img src="./images/main_screen.jpg" alt="메인 화면" width="300">
+</div>
 
 ---
 
 ### **3. 운동 분석**
-사용자가 다양한 운동을 선택하고 분석할 수 있는 화면입니다. 운동별 데이터와 카운트가 제공됩니다.
-![운동 분석](./images/analysis.jpg)
-
-#### **운동 분석 세부 화면**
-Pose Detection을 통해 사용자의 자세를 실시간으로 추적하여 정확한 운동 수행을 돕습니다.
-![운동 분석 세부 화면](./images/exercise.jpg)
+사용자가 다양한 운동을 선택하고 분석할 수 있는 화면입니다. 운동별 데이터와 카운트가 제공됩니다.  
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="./images/analysis.jpg" alt="운동 분석" width="300">
+  <img src="./images/exercise.jpg" alt="운동 분석 세부 화면" width="300">
+</div>
 
 ---
 
 ### **4. 운동 자세 가이드**
-운동별 올바른 자세를 안내하며, 유튜브 동영상을 활용해 더 나은 이해를 돕습니다.
-![운동 자세 가이드](./images/guide.jpg)
+운동별 올바른 자세를 안내하며, 유튜브 동영상을 활용해 더 나은 이해를 돕습니다.  
+<div style="text-align: center;">
+  <img src="./images/guide.jpg" alt="운동 자세 가이드" width="300">
+</div>
 
 ---
 
 ### **5. 건강 대시보드 및 운동 기록**
-- **건강 대시보드**: BMI, BMR 등 체형 데이터를 제공하며, 개인화된 건강 지표를 확인할 수 있습니다.
-- **운동 기록**: 운동 데이터를 캘린더 형식으로 보여주며, 소모된 칼로리를 확인할 수 있습니다.
-
-![건강 대시보드](./images/bmi.jpg)
-![운동 기록](./images/record.jpg)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <strong>건강 대시보드</strong><br>
+    <img src="./images/bmi.jpg" alt="건강 대시보드" width="300">
+  </div>
+  <div style="text-align: center;">
+    <strong>운동 기록</strong><br>
+    <img src="./images/record.jpg" alt="운동 기록" width="300">
+  </div>
+</div>
 
 ---
 
@@ -61,17 +71,20 @@ Pose Detection을 통해 사용자의 자세를 실시간으로 추적하여 정
 사용자에게 적합한 다양한 운동 관련 제품을 추천합니다.  
 아래는 주요 카테고리입니다:
 
-#### **6.1 의류 브랜드**
-스포츠 의류 브랜드를 추천하여 운동 환경을 더 편리하게 만듭니다.
-![의류 브랜드](./images/clothes.jpg)
-
-#### **6.2 프로틴 제품**
-다양한 프로틴 제품을 추천하여 사용자의 건강 및 운동 목표를 지원합니다.
-![프로틴 제품](./images/protein.jpg)
-
-#### **6.3 닭가슴살 추천**
-운동 식단을 고려한 닭가슴살 제품을 추천합니다.
-![닭가슴살 추천](./images/chicken.jpg)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <strong>의류 브랜드</strong><br>
+    <img src="./images/clothes.jpg" alt="의류 브랜드" width="200">
+  </div>
+  <div style="text-align: center;">
+    <strong>프로틴 제품</strong><br>
+    <img src="./images/protein.jpg" alt="프로틴 제품" width="200">
+  </div>
+  <div style="text-align: center;">
+    <strong>닭가슴살 추천</strong><br>
+    <img src="./images/chicken.jpg" alt="닭가슴살 추천" width="200">
+  </div>
+</div>
 
 ---
 
