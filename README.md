@@ -58,8 +58,6 @@
   <div>
     <strong>건강 대시보드</strong><br>
     <img src="./images/bmi.jpg" alt="건강 대시보드" width="200">
-  </div>
-  <div>
     <strong>운동 기록</strong><br>
     <img src="./images/record.jpg" alt="운동 기록" width="200">
   </div>
@@ -73,12 +71,8 @@
   <div>
     <strong>의류 브랜드</strong><br>
     <img src="./images/clothes.jpg" alt="의류 브랜드" width="150">
-  </div>
-  <div>
     <strong>프로틴 제품</strong><br>
     <img src="./images/protein.jpg" alt="프로틴 제품" width="150">
-  </div>
-  <div>
     <strong>닭가슴살 추천</strong><br>
     <img src="./images/chicken.jpg" alt="닭가슴살 추천" width="150">
   </div>
