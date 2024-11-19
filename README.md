@@ -54,24 +54,34 @@
 ---
 
 ### **5. 건강 대시보드 및 운동 기록**
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <div>
     <strong>건강 대시보드</strong><br>
     <img src="./images/bmi.jpg" alt="건강 대시보드" width="200">
+  </div>
+  <div>
     <strong>운동 기록</strong><br>
     <img src="./images/record.jpg" alt="운동 기록" width="200">
+  </div>
 </div>
 
 ---
 
 ### **6. 제품 추천**
 사용자에게 적합한 다양한 운동 관련 제품을 추천합니다.  
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <div>
     <strong>의류 브랜드</strong><br>
     <img src="./images/clothes.jpg" alt="의류 브랜드" width="150">
+  </div>
+  <div>
     <strong>프로틴 제품</strong><br>
     <img src="./images/protein.jpg" alt="프로틴 제품" width="150">
+  </div>
+  <div>
     <strong>닭가슴살 추천</strong><br>
     <img src="./images/chicken.jpg" alt="닭가슴살 추천" width="150">
+  </div>
 </div>
 
 ---
@@ -85,6 +95,16 @@
 - **제품 추천**: 의류, 프로틴, 닭가슴살 추천.
 
 ---
+
+## **🚀 설치 및 실행 방법**
+
+1. **Flutter 설치**:
+   Flutter 개발 환경이 필요합니다. [Flutter 설치 가이드](https://docs.flutter.dev/get-started/install)를 참고하세요.
+
+2. **프로젝트 클론**:
+   ```bash
+   git clone https://github.com/yourusername/SmartFit-AI.git
+   cd SmartFit-AI
 
 
 ## **🛠️ 활용 기술**
