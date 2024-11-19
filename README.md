@@ -1,16 +1,50 @@
-# flutterapp
+# **SmartFit AI**
 
-A new Flutter project.
+### **운동 자세 교정 및 건강 관리 앱**
 
-## Getting Started
+**SmartFit AI**는 사용자의 운동 자세를 실시간으로 분석하고 교정하는 서비스입니다. 잘못된 운동 자세로 인한 부상을 예방하고, 개인화된 피드백 및 추천 서비스를 제공합니다.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## **📋 프로젝트 개요**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **주제 선정 배경**:
+  - 건강에 대한 관심이 증가하면서 올바른 운동 자세의 중요성이 강조되고 있습니다.
+  - 잘못된 자세로 인해 부상이 발생할 수 있으며, 이를 예방하기 위해 자세 교정이 필수적입니다.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **문제 해결**:
+  - Google ML Kit 기반의 자세 추적 기술을 활용하여 실시간 자세 분석과 교정을 제공합니다.
+  - 운동 과정에서 발생할 수 있는 오류를 줄이고, 개인 맞춤형 피드백을 제공합니다.
+
+---
+
+## **✨ 주요 기능**
+
+1. **실시간 자세 교정**:
+   - 사용자의 운동 자세를 분석하고 잘못된 동작을 실시간으로 교정합니다.
+
+2. **운동 횟수 자동 카운팅**:
+   - 운동 동작을 감지하여 횟수를 자동으로 카운트합니다.
+
+3. **추천 제품 제공**:
+   - 사용자에게 적합한 운동 보조제, 식품, 의류 등을 추천합니다.
+
+4. **다양한 데이터 제공**:
+   - BMI, BMR, 칼로리 소모량 등을 실시간으로 계산하여 제공.
+
+---
+
+## **🛠️ 활용 기술**
+
+- **기술 스택**:
+  - **Google ML Kit**:
+    - [`google_mlkit_commons`](https://pub.dev/packages/google_mlkit_commons): ML Kit의 공통 유틸리티.
+    - [`google_mlkit_pose_detection`](https://pub.dev/packages/google_mlkit_pose_detection): 자세 추적(Pose Detection) 라이브러리.
+  - **Flutter**: 멀티플랫폼 앱 개발.
+  - **Dart**: 애플리케이션 로직 및 UI 구현.
+    
+- **Pose Detection 기술**:
+  - ML Kit의 Pose Detection을 통해 신체의 관절 포인트를 추적.
+  - 정확한 자세와 부정확한 자세를 실시간으로 구분 및 피드백.
+
+
