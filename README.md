@@ -23,7 +23,7 @@
 ### **1. 로그인 화면**
 사용자가 전화번호, Google 계정 또는 익명 로그인을 통해 손쉽게 접속할 수 있습니다.  
 <div align="center">
-  <img src="./images/login.jpg" alt="로그인 화면" width="300">
+  <img src="./images/login.jpg" alt="로그인 화면" width="300" height="500">
 </div>
 
 ---
@@ -31,7 +31,7 @@
 ### **2. 메인 화면**
 운동 분석, 운동 자세, 과거 이력, 제품 추천 기능을 한눈에 볼 수 있는 중심 화면입니다.  
 <div align="center">
-  <img src="./images/main_screen.jpg" alt="메인 화면" width="300">
+  <img src="./images/main_screen.jpg" alt="메인 화면" width="300" height="500">
 </div>
 
 ---
@@ -39,8 +39,8 @@
 ### **3. 운동 분석**
 사용자가 다양한 운동을 선택하고 분석할 수 있는 화면입니다. 운동별 데이터와 카운트가 제공됩니다.  
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./images/analysis.jpg" alt="운동 분석" width="300">
-  <img src="./images/exercise.jpg" alt="운동 분석 세부 화면" width="300">
+  <img src="./images/analysis.jpg" alt="운동 분석" width="300" height="500">
+  <img src="./images/exercise.jpg" alt="운동 분석 세부 화면" width="300" height="500">
 </div>
 
 ---
@@ -48,7 +48,7 @@
 ### **4. 운동 자세 가이드**
 운동별 올바른 자세를 안내하며, 유튜브 동영상을 활용해 더 나은 이해를 돕습니다.  
 <div align="center">
-  <img src="./images/guide.jpg" alt="운동 자세 가이드" width="300">
+  <img src="./images/guide.jpg" alt="운동 자세 가이드" width="300" height="500">
 </div>
 
 ---
@@ -56,8 +56,8 @@
 ### **5. 건강 대시보드 및 운동 기록**
 건강 데이터를 한눈에 확인하고, 운동 기록을 캘린더 형식으로 조회할 수 있습니다.  
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./images/bmi.jpg" alt="건강 대시보드" width="300">
-  <img src="./images/record.jpg" alt="운동 기록" width="300">
+  <img src="./images/bmi.jpg" alt="건강 대시보드" width="300" height="500">
+  <img src="./images/record.jpg" alt="운동 기록" width="300" height="500">
 </div>
 
 ---
@@ -65,15 +65,15 @@
 ### **6. 제품 추천**
 제품 추천 화면에서 다양한 카테고리의 운동 관련 제품을 탐색할 수 있습니다.  
 <div align="center">
-  <img src="./images/product.jpg" alt="제품 추천 전체 화면" width="500">
+  <img src="./images/product.jpg" alt="제품 추천 전체 화면" width="600" height="400">
 </div>
 
 #### **6.1 주요 카테고리**
 추천되는 주요 제품 카테고리:  
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./images/clothes.jpg" alt="의류" width="300">
-  <img src="./images/chicken.jpg" alt="닭가슴살" width="300">
-  <img src="./images/protein.jpg" alt="프로틴" width="300">
+  <img src="./images/clothes.jpg" alt="의류" width="250" height="400">
+  <img src="./images/chicken.jpg" alt="닭가슴살" width="250" height="400">
+  <img src="./images/protein.jpg" alt="프로틴" width="250" height="400">
 </div>
 
 ---
