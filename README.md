@@ -108,6 +108,9 @@
     - [`google_mlkit_pose_detection`](https://pub.dev/packages/google_mlkit_pose_detection): 자세 추적(Pose Detection) 라이브러리.
   - **Flutter**: 멀티플랫폼 앱 개발.
   - **Dart**: 애플리케이션 로직 및 UI 구현.
+  - **Firebase**:
+  - **Firebase Authentication**: 익명 로그인 및 Google 계정을 통한 사용자 인증 관리.
+  - **Firebase Firestore**: 운동 기록 및 사용자 데이터를 안전하게 저장.
     
 - **Pose Detection 기술**:
   - ML Kit의 Pose Detection을 통해 신체의 관절 포인트를 추적.
